@@ -1,7 +1,7 @@
 👋Hi, I'm Aydin Ganiyev. I'm a frontend and mobile developer 🔭 who focused on creating useful web and mobile applications to make people's lives better.
 
 ### About Me
-___
+---
 I am 
 <!--
 **aydingani/aydingani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
