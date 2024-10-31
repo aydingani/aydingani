@@ -10,9 +10,9 @@ I'm an adaptable frontend and mobile developer, skilled in time management and t
 - **Frameworks & Libraries**: React, Next.js, React Native, Tailwind CSS
 - **Tools & Platforms**: GitHub, Vercel, Netlify
 
-### Key Projects
+### Portfolio
 ---
-- [Portfolio](https://aydingani.netlify.app): Portfolio
+- [Portfolio](https://aydingani.netlify.app): My own portfolio website
 <!--
 **aydingani/aydingani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
