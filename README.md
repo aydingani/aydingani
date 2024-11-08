@@ -12,7 +12,7 @@ I'm an adaptable frontend and mobile developer, skilled in time management and t
 
 ### Portfolio
 ---
-- [Portfolio](https://aydingani.netlify.app): My own portfolio website
+- [Portfolio](https://aydingani.vercel.app): My own portfolio website
 <!--
 **aydingani/aydingani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
